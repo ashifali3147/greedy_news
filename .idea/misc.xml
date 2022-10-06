@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/drawable/top_round_conrer.xml" value="0.1805" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/activity_details_news.xml" value="0.6" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/activity_saved_news.xml" value="0.21428571428571427" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/custom_new_view.xml" value="0.152" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/custom_saved_view.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/purni/AndroidStudioProjects/GreedyNews/app/src/main/res/layout/filter_popup.xml" value="0.23229166666666667" />
       </map>
     </option>
   </component>
